@@ -1,0 +1,57 @@
+body{
+    font-family: sans-serif;
+    background-color:white;
+}
+
+header{
+    background-color: white;
+    text-align: center;
+    border-bottom: 2px solid goldenrod;
+}
+
+.main  {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 20px;
+}
+
+.Acciones {
+    padding: 20px;
+    background-color: #f0f4f8;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav__list{
+    display: inline-block;
+}
+
+.nav__item{
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.contenedor{
+    margin: 20px 0;
+    padding: 10px;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+thead{
+    background-color: rgb(226, 248, 248);
+}
+tbody{
+    background-color: rgb(235, 246, 243);
+}
+
+table{
+    table-layout: fixed;
+}
+
